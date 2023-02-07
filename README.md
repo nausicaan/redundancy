@@ -1,8 +1,8 @@
-# Redundancy: A Terminal history manipulator
+# Redundancy
 
 [![Gem Version](https://badge.fury.io/rb/redundancy.svg)](https://badge.fury.io/rb/redundancy)
 
-Redundancy is a Ruby program that loads the .zsh_history, .bash_history, .irb_history files, and applies the built-in Ruby ***uniq!*** function to trim any duplicate commands present. It then writes the filtered output back to the appropriate file.
+Redundancy is a RubyGem that loads the .zsh_history, .bash_history, .irb_history files, and applies the built-in Ruby ***uniq!*** function to trim any duplicate commands present. It then writes the filtered output back to the appropriate file.
 
 ## Install
 
